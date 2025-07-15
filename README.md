@@ -1,7 +1,7 @@
 # Walmart Weekly Sales Prediction
 
 ## Project Overview
-This project focuses on predicting Walmart's weekly sales using machine learning. Using historical data, the goal was to build an accurate model to forecast sales patterns and assist in planning and decision-making. The project also includes an interactive Streamlit web app deployed locally via PyCharm for real-time predictions.
+This project focuses on predicting Walmart's weekly sales using machine learning. Using historical data, the goal was to build an accurate model to forecast sales patterns and assist in planning and decision making. The project also includes an interactive Streamlit web app deployed locally via PyCharm for real-time predictions.
 
 ## Objectives
 - Predict Walmart weekly sales using historical data.
